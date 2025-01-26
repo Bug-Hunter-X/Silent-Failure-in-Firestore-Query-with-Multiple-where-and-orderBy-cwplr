@@ -1,0 +1,1 @@
+In a Firebase project, when attempting to fetch data from the Firestore database using a query with multiple `where` clauses and an `orderBy` clause, an unexpected error occurred.  The application would fail to retrieve any data, and there were no apparent error messages in the console.
